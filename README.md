@@ -4,6 +4,8 @@ This project is an intellectual and practical project that I do to improve mysel
 # :man_technologist: TryHackMe AdventOfCyber3 Bot :man_technologist:
 This project opens a new account on the TryHackMe site and participates in the raffle for the AdventOfCyber 3 event by answering all the questions.
 
+Apart from the scenario, it can be used to fill the specified rooms in other accounts if there is a json file. :smile::smile:
+
 # About the Project :blue_book:
 The project has been prepared using Selenium, request and bs4 libraries.
 
