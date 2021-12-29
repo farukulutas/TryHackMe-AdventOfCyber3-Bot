@@ -9,7 +9,9 @@ Apart from the scenario, it can be used to fill the specified rooms in other acc
 # About the Project :blue_book:
 The project has been prepared using Selenium, request and bs4 libraries.
 
-In the project, one user-agent is taken from the user-agent list, and with the help of Selenium and geckodriver, go to the tryhackme site and register. Then the cookie and csrf tokens are set. Fills the questions in the specified room (adventofcyber3) by pulling the data from the json file obtained from a previously filled account with the help of api (Check the address from an account where questions are resolved: https://tryhackme.com/api/tasks/adventofcyber3). It also saves the entered id and password information in the specified form. It does this as an endless loop. 
+In the project, one user-agent is taken from the user-agent list, and with the help of Selenium and geckodriver, go to the tryhackme site and register. Then the cookie and csrf tokens are set. Fills the questions in the specified room (adventofcyber3) by pulling the data from the json file obtained from a previously filled account with the help of api (Check the address from an account where questions are resolved: https://tryhackme.com/api/tasks/adventofcyber3). It also saves the entered id and password information in the specified form. It does this as an endless loop.
+
+![Alt Text](https://github.com/farukulutas/TryHackMe-AdventOfCyber3-Bot/blob/main/THM%20AOC%20BOT.gif)
 
 # What You Need to Set Before RUN
 :warning: For Geckodriver to work, you must have firefox installed on your computer.
