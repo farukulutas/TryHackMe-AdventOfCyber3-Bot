@@ -1,5 +1,5 @@
 # :exclamation::exclamation::exclamation: DISCLAIMER :exclamation::exclamation::exclamation:
-This project is an intellectual and practical project that I do to improve myself, learn new things and satisfy my curiosity. Although some parts have been tried to test, since I do not find it ethical, it has not been tried to add everything that needs to be added and get results.
+This project is an intellectual and practical project that I do to improve myself, learn new things and satisfy my curiosity. I tested some parts to write the code. However, there are no additions in the development part, as I do not find it ethical. It has not been tried.
 
 # :man_technologist: TryHackMe AdventOfCyber3 Bot :man_technologist:
 This project opens a new account on the TryHackMe site and participates in the raffle for the AdventOfCyber 3 event by answering all the questions.
