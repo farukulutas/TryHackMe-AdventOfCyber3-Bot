@@ -87,7 +87,7 @@ class Bot():
             s.cookies.set_cookie(cookie_obj)
         
         # get csrf
-        get_cookie = s.get('https://tryhackme.com/room/adventofcyber3', headers=header_with_agent)
+        get_cookie = s.get('https://tryhackme.com/room/' + room, headers=header_with_agent)
         source = BeautifulSoup(get_cookie.content,"html.parser")
         csrf_token = source.find("input",attrs={"name":"_csrf"})
         
